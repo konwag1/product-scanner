@@ -1,7 +1,7 @@
 # product-scanner
 
 Project Description
-This project is a self-checkout simulator that uses image recognition technology to identify products using a webcam. The system automatically scans, recognizes products, and displays their names and prices, simulating the process of self-service scanning in stores. Finally, it displays a price summary
+This project is a self-checkout simulator that uses image recognition technology to identify products using a webcam. The system scans, recognizes products, and displays their names and prices, simulating the process of self-service scanning in stores. Finally, it displays a price summary
 
 Main Features
 
